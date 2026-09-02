@@ -12,7 +12,7 @@ Currently, I'm strengthening my skills in **Linux, networking, cybersecurity, Py
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql,linux,figma" />
 </p>
 
-**UI/UX:** Figma | Wireframing | Prototyping |
+**UI/UX:** Figma | Wireframing | Prototyping 
 
 ### 🔐 Currently Exploring
 
