@@ -20,7 +20,7 @@ Cybersecurity | Network Security | Linux | Security Tools
 
 ### 🚀 Projects
 
-🌍 SeasonScape | 🐝 Nethive
+🌍 SeasonScape 
 
 ### 📫 Connect With Me
 
